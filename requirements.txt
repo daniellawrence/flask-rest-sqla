@@ -1,0 +1,3 @@
+flask-restless==1.0.0b1
+flask-sqlalchemy
+requests
